@@ -1,1 +1,1 @@
-library command line source code
+process dicionary
